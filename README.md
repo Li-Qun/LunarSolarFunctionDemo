@@ -1,4 +1,6 @@
 # LunarSolarFunctionDemo
+详情来源技术博客：http://www.cnblogs.com/someonelikeyou/p/8549556.html
+
 Lunar Solar  Date Transform
      常用日期的公历和农历日期显示和转化方法
      基本使用举例，其他功能参加方法类
